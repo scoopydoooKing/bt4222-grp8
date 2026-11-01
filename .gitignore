@@ -1,5 +1,14 @@
 # Data files (too big for GitHub)
 *.txt
+!requirements.txt
 *.parquet
 *.csv
+data/
+
+# Secrets
 .env
+
+# Python / notebooks
+.venv/
+__pycache__/
+.ipynb_checkpoints/
