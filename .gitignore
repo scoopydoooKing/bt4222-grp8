@@ -12,3 +12,7 @@ data/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+.DS_Store
+
+# Model outputs (shared on Drive, not in git)
+models/
